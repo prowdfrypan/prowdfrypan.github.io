@@ -10,11 +10,6 @@
 
 <iframe height="90px" width="310px" frameborder="0" src="https://socialcounts.org/youtube-video-live-view-count/zXiJZZkWAHs/embed" allowFullScreen></iframe>
 
-<br>
-
-<iframe class="responsive-iframe" src="https://livecounts.nl/live-view-count/compare/?v1=zXiJZZkWAHs&v2=5A3lnqhgBYc" title="View comparison with [BE ORIGINAL] SUNMI(선미) '열이올라요 (Heart Burn)' (4K)"></iframe>
-
-
 <style>
 
 .container {
